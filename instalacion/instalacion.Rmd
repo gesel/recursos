@@ -70,7 +70,7 @@ El primer paso antes de escribir la primera línea de código es instalar el sof
 7) Seleccionar la carpeta donde deseamos encontrar RStudio en el menú inicio. Recomiendo mantener la opción por defecto.  
      ![](img/screen22.png)
 8) Esperar a que la instalación termine.
-    ![](img/screen25.png
+    ![](img/screen25.png)
 9) ¡Listo! RStudio ya está instalado.  
      ![](img/screen26.png)
 
